@@ -58,7 +58,7 @@ const Header = () => {
         <Link to={"/"} className="flex items-center gap-2">
           <img src={Logo} className="w-8 object-cover" alt="logo" />
           <p className="text-headingColor text-xl font-bold">  Amalgamated <br></br>
-          <span className="text-orange-500">fresh solution</span></p>
+          <span className="text-orange-500">fresh solutions</span></p>
         </Link>
 
         <div className="flex items-center gap-8">
